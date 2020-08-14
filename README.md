@@ -33,6 +33,11 @@ PROJETO BASE - QAZANDO - Appium + Java
 * **[cucumber.io](https://cucumber.io/docs/guides/10-minute-tutorial/)**
 * **[pagefactory](https://github.com/appium/java-client/blob/master/docs/Page-objects.md)**
 
+##Projeto Completo Qazando
+
+https://github.com/qazando/AppiumJavaFinal
+
+WWW.QAZANDO.COM.BR
 
 
 
