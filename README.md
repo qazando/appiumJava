@@ -1,6 +1,6 @@
 #QA Mobile
 
-Project Appium maven with cucumber for Android and iOS
+PROJETO BASE - QAZANDO - Appium + Java
 
 ## Requirements
 
