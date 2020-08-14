@@ -13,7 +13,7 @@ Project Appium maven with cucumber for Android and iOS
 
 1. Start appium server: `$ appium` 
 	
-2. Run android tests: `$ mvn clean test -Dcucumber.options="--tags @here_tags_for_Android" -Denv.PLATAFORM=ANDROID_OREO`
+2. Run android tests: `$ mvn clean test -Dcucumber.options="--tags @here_tags_for_Android" -Denv.PLATAFORM=ANDROID`
 
 3. Run ios tests: `$ mvn clean test -Dcucumber.options="--tags @here_tags_for_IOS" -Denv.PLATAFORM=IPHONE_8`
 

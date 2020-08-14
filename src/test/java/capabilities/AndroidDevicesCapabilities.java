@@ -8,10 +8,8 @@ import java.io.File;
 
 public enum AndroidDevicesCapabilities {
 
-
-    ANDROID_OREO("resources/capabilities/android-oreo.json"),
+    ANDROID("resources/capabilities/android-oreo.json"),
     ANDROID_FISICO("resources/capabilities/android-fisico.json");
-
 
     private String path;
 
